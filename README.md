@@ -1,16 +1,8 @@
 # Algoritma Problemleri ve Çözümler
 
----
-
-
-
-
-
-
-
 ## Amaç
 
-Çeşitli alanlarda Türkçe problem kaynağı hazırlamak, bu problemlerin çözüm algoritmalarının geliştirilmesi ve programlanması konusunda Türkçe kaynak oluşturmak.
+Her seviyeden problemler ve bu prob
 
 
 
@@ -31,18 +23,6 @@ Kullanıcılar problemleri çözebilir ya da çözüme dair fikir edinmek için 
 - Kullanıcı problemi çözebilir ya da örnek çözümleri inceleyebilir.
 
 - Kullanıcı, örnek çözümleri daha verimli ve daha kullanışlı hâle getirmek için bu örnekler üzerinde çalışabilir.
-
-
-
-## Notlar
-
-- Çözümler asla en verimli yolu sunmayı hedeflemez, sadece örnek bir çözüm sunmayı ve kullanıcı tarafından iyileştirilip geliştirilmeyi hedefler.
-
-- Asıl amaç; algoritma ve problem çözme becerisini geliştirmeye yönelik pratikler yapmaktır bu sebeple çözümlerin hangi programlama dili ile yapıldığını önemsememenizi ve inceleyip üzerinde çalışmanızı tavsiye ederim.
-
-- Bu kişisel bir projedir, her ay 3-4 adet problem ve çözüm eklemeyi düşünüyorum.
-
----
 
 
 
